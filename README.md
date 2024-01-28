@@ -5,7 +5,7 @@ My first programming languange that I learned was HTML and CSS. In my college, I
 
 About me:
 - 👀 I’m interested in basketball, coding, and videogames
-- 🌱 I’m currently learning python, MySql, HTML and CSS in college
+- 🌱 I’m currently learning Python, MySQL, HTML and CSS in college
 - 🍳 Fun Fact: I enjoy learning and cooking filipino dishes.
 - 🎮 Favourite all time video game character is Clementine.
 - 🏴‍☠️ Huge One Piece fan
