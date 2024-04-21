@@ -8,7 +8,7 @@ About me:
 - 🌱 I’m currently self teaching myself to learn Javascript.
 - 🍳 Fun Fact: I enjoy learning and cooking filipino dishes.
 - 🎮 Favourite all time video game character is Clementine.
-- 🏴‍☠️ Huge One Piece fan.
+- 🏴‍☠️ A fan of One Piece.
 - 🏋️ Yeah Buddy! (Ronnie Coleman👑)
 - ⭐ Dream of becoming a full stack developer in the future
 <!---
