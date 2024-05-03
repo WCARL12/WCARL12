@@ -10,7 +10,7 @@ About me:
 - 🎮 Favourite all time video game character is Clementine.
 - 🏴‍☠️ A fan of One Piece.
 - 🏋️ Yeah Buddy! (Ronnie Coleman👑)
-- 🎵 Favourite artist of all time is 🎵Bon Jovi🎵.
+- 🎵 Favourite artist of all time is Bon Jovi🎙️.
 - ⭐ Dream of becoming a full stack developer in the future.
 <!---
 WCARL12/WCARL12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
