@@ -1,4 +1,4 @@
-Hi, My name is Carl
+Hi, My name is Carl and I am 19 years old.
 
 I am a student in CNA and currently taking a course 'Software Development Coop' and I am currently in my first year. I have started my coding journey in 2022 and I fell in love with it since.
 My first programming languange that I learned was HTML and CSS. In my college, I touched a lot on Python and Databases. 
