@@ -1,7 +1,20 @@
 Hi, My name is Carl and I am 19 years old.
 
 I am a student in CNA and currently taking a course 'Software Development Co-op' and I am currently in my first year. I have started my coding journey in 2022 and I fell in love with it since.
-My first programming languange that I learned was HTML and CSS. In my college, I touched a lot on Python and Databases. Hopefully, I can become a full stack developer in the future since I enjoy working with websites. Currently learning more about both Front-end and Back-end.
+I love creating websites and I have experience both the Front-end and the Back-end. I only have 3 months work experience but I am determined to become a full stack developer in the future!.
+
+Languanges I know:
+- Python
+- JavaScript
+- Java
+- NodeJs
+- HTML
+- CSS
+- EJS
+  
+Database: 
+- MongoDB
+- MySQL
 
 About me:
 - 👀 I’m interested in basketball, web development, and videogames.
