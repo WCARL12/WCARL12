@@ -18,7 +18,7 @@ Database:
 
 About me:
 - 👀 I’m interested in basketball, web development, and videogames.
-- 🌱 I’m currently self teaching myself to learn Javascript.
+- 🌱 I’m currently self teaching myself to learn Java.
 - 🍳 Fun Fact: I enjoy learning and cooking filipino dishes.
 - 🎮 Favourite all time video game character is Clementine.
 - 🏴‍☠️ A fan of One Piece.
