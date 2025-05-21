@@ -1,7 +1,7 @@
-Hi, My name is Carl and I am 19 years old.
+Hi, My name is Carl and I am 20 years old.
 
 I am a student in CNA and currently taking a course 'Software Development Co-op'. I am currently in my second year. I have started my coding journey in 2022 and I fell in love with it since.
-I love creating websites and I have experience both the Front-end and the Back-end. I only have 3 months work experience but I am determined to become a full stack developer in the future!
+I love creating websites and I have experience both the Front-end and the Back-end. I have 8 months work experience but I am determined to become a full stack developer in the future!
 
 Languanges I know:
 - Python
